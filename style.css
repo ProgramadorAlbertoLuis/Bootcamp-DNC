@@ -317,5 +317,18 @@ body{
         font-size: 20px;
     }
 
+    /* Footer */
 
+    footer .linha1{
+        flex-direction: column;
+    }
+
+    footer .address{
+        width: 95%;
+        margin-bottom: 20px;
+    }
+
+    footer h5{
+        margin-bottom: 5px ;
+    }
 }
